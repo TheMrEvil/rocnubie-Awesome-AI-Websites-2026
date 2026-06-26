@@ -28,6 +28,7 @@ If this list helps you, please **star the repo** so more people can find it.
 Free online **AI image generators**, **AI photo editors**, **image-to-image AI**, and **text-to-image** tools. Built on Flux, Gemini (Nano Banana), Z-Image, and other state-of-the-art models.
 
 - [**Nano Banana AI**](https://nanobanana-ai.online) — Free **Nano Banana Pro AI image editor** online, powered by Google Gemini. Text-to-image, image-to-image, and image-to-video in one workspace.
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [**Flux.2 AI**](https://flux-2.online) — Free **Flux.2 AI image generator** with Flux.2 Dev, Pro, Flex, and Flux LoRA. Text-to-image and image-to-image.
 - [**Flux AI Online**](https://flux-ai.online) — Free **Flux AI image generator** featuring the full Flux.2 lineup (Dev / Pro / Flex / LoRA).
 - [**Z-Image**](https://z-image.club) — Free **Z-Image Turbo** AI image generator and Z-Image LoRA editor. Text-to-image and image-to-image.
